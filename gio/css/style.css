@@ -1,0 +1,64 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing:border-box;
+}
+#logo{
+    height: 30px;
+    margin-bottom: 40px ;
+    
+}
+
+.container-fluid{
+    background-color:#F04688;
+}
+#design{ 
+    font-weight: bold;
+    margin-bottom: 40px;
+    font-size: 35px;
+}
+#vip{
+    background-color: #F04688;
+    border-radius: 10px;
+    color: #ffff;
+}
+#vip:hover{
+        background-color: #4deaff;
+        color: #ffff;
+        transition: 0.5s;
+}
+#vaga{
+    background-color: #ffff;
+    color:#F04688;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius:30px ;
+    padding: 12px;
+}
+#vaga:hover{
+    background-color: #4deaff;;
+    color: #ffff;
+    transition: 0.5s;
+
+}
+
+#curso{
+    margin-bottom:30px ;
+}
+
+#logo-footer{
+    height: 35px;
+    margin-bottom: 20px;
+}
+#footer{
+    margin-top: 70px;
+}
+#hermes{
+    font-size:13px;
+   
+}
+#textFooter{
+    font-weight: bold;
+    color: #525252;
+    margin-left: 180px;
+}
